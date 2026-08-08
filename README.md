@@ -31,12 +31,15 @@ I’m a Robotics & AI student who enjoys building things, competing, and explori
 ---
 
 ### 🤖 What I Work On
-
-- 🧠 **AI & Computer Vision** — YOLO, OpenCV, deep learning for real-time perception
-- 🗺️ **Autonomous Navigation** — ROS 2, Nav2, SLAM, path planning
-- 🔧 **Hardware Integration** — Raspberry Pi, Arduino, sensors, actuators
-- 🌐 **Simulation** — Gazebo, robot modeling, testing in virtual environments
-- 👥 **Community** — Robotics mentoring, team leadership, knowledge sharing
+⚡ Embedded & Electronics — Arduino, microcontrollers, sensors, motor drivers, actuators, and hardware prototyping
+🤖 Robotics & Autonomous Systems — mobile robots, autonomous navigation, obstacle avoidance, line following, and real-world robot control
+🧠 AI & Computer Vision — Python, OpenCV, YOLO, deep learning, object detection, and real-time perception
+🗺️ ROS 2 & Navigation — ROS 2 Jazzy, Nav2, SLAM Toolbox, sensor integration, path planning, and autonomous decision-making
+🚗 Autonomous Vehicles — autonomous ground vehicles, lane detection, obstacle avoidance, parking, and multi-sensor navigation
+🌍 Simulation & Digital Robotics — Gazebo, URDF, robot simulation, testing autonomous behavior, and virtual environments
+🔧 Mechanical & Hardware Integration — robot chassis, suspension systems, motor/gear mechanisms, 3D-printed components, and integrating hardware with software
+🏆 Competitions & Hackathons — building and deploying prototypes for robotics competitions, hackathons, and engineering challenges
+👥 Teamwork & Mentoring — Robotics Club projects, mentoring juniors, technical collaboration, presentations, and knowledge sharing
 
 ---
 
