@@ -26,9 +26,7 @@
 
 ### About Me
 
-I build **intelligent robotic systems** that bridge AI, hardware, and autonomous navigation. My goal is to develop robots that can understand their environment and make reliable decisions in the real world.
-
-From writing low-level embedded firmware to deploying high-level AI perception stacks — I work across the full robotics development pipeline.
+I’m a Robotics & AI student who enjoys building things, competing, and exploring new places through technology. From working on autonomous robots and AI projects to participating in hackathons, robotics competitions, and expos like IMTEX Bangalore, I’ve had the chance to learn by doing and travel to different places with my teams. I’m also actively involved in my college Robotics Club, where I work on projects, mentor juniors, and help organize and contribute to club activities.
 
 ---
 
