@@ -61,32 +61,6 @@ I’m a Robotics & AI student who enjoys building things, competing, and explori
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veerakarthik-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veerakarthik-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veerakarthik-M&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Veerakarthik-M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veerakarthik-M&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-</p>
 
 ---
 
