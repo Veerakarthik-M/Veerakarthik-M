@@ -31,8 +31,8 @@ I’m a Robotics & AI student who enjoys building things, competing, and explori
 ---
 
 ### 🤖 What I Work On
--⚡ Embedded & Electronics — Arduino, microcontrollers, sensors, motor drivers, actuators, and hardware prototyping
--🤖 Robotics & Autonomous Systems — mobile robots, autonomous navigation, obstacle avoidance, line following, and real-world robot control
+-⚡- Embedded & Electronics — Arduino, microcontrollers, sensors, motor drivers, actuators, and hardware prototyping
+-🤖- Robotics & Autonomous Systems — mobile robots, autonomous navigation, obstacle avoidance, line following, and real-world robot control
 -🧠 AI & Computer Vision — Python, OpenCV, YOLO, deep learning, object detection, and real-time perception
 -🗺️ ROS 2 & Navigation — ROS 2 Jazzy, Nav2, SLAM Toolbox, sensor integration, path planning, and autonomous decision-making
 -🚗 Autonomous Vehicles — autonomous ground vehicles, lane detection, obstacle avoidance, parking, and multi-sensor navigation
